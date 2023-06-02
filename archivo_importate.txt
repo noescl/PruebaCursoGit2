@@ -1,1 +1,2 @@
 linea 1 archivo importante   1.1 nuevo_cambio rama
+ahora es 1.2
