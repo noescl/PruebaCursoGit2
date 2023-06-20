@@ -11,4 +11,9 @@ Linea10
 
 
 
+<<<<<<< HEAD
 Linea14
+=======
+Linea14 modificada
+Linea15
+>>>>>>> be8bd4b (modificando linea14 desde otra rama)
